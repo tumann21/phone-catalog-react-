@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "./static/css/main.265624bc.chunk.css",
+    "main.js": "./static/js/main.4e9fb0ce.chunk.js",
+    "main.js.map": "./static/js/main.4e9fb0ce.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.8c9895b1.js",
+    "runtime-main.js.map": "./static/js/runtime-main.8c9895b1.js.map",
+    "static/js/2.8c42796b.chunk.js": "./static/js/2.8c42796b.chunk.js",
+    "static/js/2.8c42796b.chunk.js.map": "./static/js/2.8c42796b.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/main.265624bc.chunk.css.map": "./static/css/main.265624bc.chunk.css.map",
+    "static/js/2.8c42796b.chunk.js.LICENSE.txt": "./static/js/2.8c42796b.chunk.js.LICENSE.txt",
+    "static/media/HomePage.scss": "./static/media/banner2.04ecee0f.jpg",
+    "static/media/App.scss": "./static/media/Mont-Regular.48fedf56.ttf",
+    "static/media/Layout.scss": "./static/media/topArrow.3ffcd791.svg",
+    "static/media/ProductCard.scss": "./static/media/vector-right.7365d53e.svg",
+    "static/media/Category.scss": "./static/media/category-tablets.ab269482.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8c9895b1.js",
+    "static/js/2.8c42796b.chunk.js",
+    "static/css/main.265624bc.chunk.css",
+    "static/js/main.4e9fb0ce.chunk.js"
+  ]
+}
